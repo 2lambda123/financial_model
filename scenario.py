@@ -1,0 +1,1 @@
+import numpy as npimport pandas as pd import matplotlib.pyplot as plt from concepts import Debt# Okay. Step 1. Model the growth of a test debt that I have, using easily verifiable numbers, to ensure that things are working correctly. if __name__ == '__main__':     
