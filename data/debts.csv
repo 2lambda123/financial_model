@@ -1,0 +1,3 @@
+name,earner,balance,limit,prime_rate,apr,is_floating,repayment_frequency,repayment_date,revolving
+CIBC LOC,Soren,7500,18000,0.067,0.087,TRUE,monthly,1,TRUE
+Tangerine LOC,Soren,8500,10000,0.067,0.107,TRUE,monthly,15,TRUE
